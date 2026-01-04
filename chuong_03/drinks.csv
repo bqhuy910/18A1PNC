@@ -1,0 +1,9 @@
+country,beer_servings,spirit_servings,wine_servings,total_litres_of_pure_alcohol,continent
+Vietnam,163,70,1,4.0,AS
+Thailand,99,200,1,6.4,AS
+France,127,151,370,11.8,EU
+Germany,346,117,175,11.3,EU
+USA,249,158,84,8.7,NA
+Canada,240,122,100,8.2,NA
+Nigeria,31,2,2,9.1,AF
+South Africa,225,76,81,8.2,AF
